@@ -7,7 +7,9 @@
             crossorigin="anonymous"></script>
         <script type="text/javascript">
             $(document).ready(function() {
-                $("img:odd").mouseenter(function(e) {
+                var elems = document.getElementsByTagName("img");
+
+                $(elems).mouseenter(function(e) {
                     $(this).css("opacity", 0.5) ;
                 }).mouseout(function(e) {
                     $(this).css("opacity", 1.0);
