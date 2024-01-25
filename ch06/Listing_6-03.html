@@ -9,14 +9,12 @@
 
         <script type="text/javascript">
             $(document).ready(function() {
-                let labelElems = document.getElementsByTagName("label");
-                let jq = $("img[src*=daffodil]");
+                let jq = $("label");
 
-                $("img:even").add("img[src*=primula]").add(jq)
-                    .add(labelElems).css("border", "thick double red");
+                jq.slice(0,2).css("border", "thick double black");
+                jq.slice(4).css("border", "thick solid red");
             });
         </script>
-
     </head>
     <body>
         <h1>Jacqui's Flower Shop</h1>
