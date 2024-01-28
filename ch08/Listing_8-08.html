@@ -15,11 +15,11 @@
             $(document).ready(function() {
                 $("img").addClass("redBorder");
                 $("img:even").removeClass("redBorder").addClass("blueBorder");
-            });
 
-            console.log("All elements: " + $("img").hasClass("redBorder"));
-            $("img").each(function(index, elem) {
-                console.log("Element: " + $(elem).hasClass("redBorder") + " " + elem.src) ;
+                console.log("All elements: " + $("img").hasClass("redBorder"));
+                $("img").each(function(index, elem) {
+                    console.log("Element: " + $(elem).hasClass("redBorder") + " " + elem.src) ;
+                });
             });
         </script>
 
