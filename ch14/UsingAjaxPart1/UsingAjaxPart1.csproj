@@ -101,6 +101,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\aster.png" />
+    <Content Include="Content\border.png" />
+    <Content Include="Content\carnation.png" />
+    <Content Include="Content\daffodil.png" />
+    <Content Include="Content\flowericon.png" />
+    <Content Include="Content\handlebars-jquery.js" />
+    <Content Include="Content\handlebars.js" />
+    <Content Include="Content\leftarrows.png" />
+    <Content Include="Content\lily.png" />
+    <Content Include="Content\Listing_12-04.html" />
+    <Content Include="Content\orchid.png" />
+    <Content Include="Content\peony.png" />
+    <Content Include="Content\primula.png" />
+    <Content Include="Content\rightarrows.png" />
+    <Content Include="Content\rose.png" />
+    <Content Include="Content\snowdrop.png" />
+    <Content Include="Content\styles.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
