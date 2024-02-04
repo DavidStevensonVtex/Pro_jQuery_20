@@ -111,6 +111,8 @@
     <Content Include="Content\handlebars.js" />
     <Content Include="Content\leftarrows.png" />
     <Content Include="Content\lily.png" />
+    <Content Include="Content\Listing_14-19.html" />
+    <Content Include="Content\Listing_14-18.html" />
     <Content Include="Content\Listing_14-17.html" />
     <Content Include="Content\Listing_14-16.html" />
     <Content Include="Content\Listing_14-15.html" />
@@ -124,6 +126,7 @@
     <Content Include="Content\Listing_14-05.html" />
     <Content Include="Content\Listing_14-03.html" />
     <Content Include="Content\Listing_14-01.html" />
+    <Content Include="Content\myscript.js" />
     <Content Include="Content\orchid.png" />
     <Content Include="Content\peony.png" />
     <Content Include="Content\primula.png" />
