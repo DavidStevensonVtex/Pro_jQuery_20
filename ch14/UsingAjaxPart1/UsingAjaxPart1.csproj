@@ -111,6 +111,8 @@
     <Content Include="Content\handlebars.js" />
     <Content Include="Content\leftarrows.png" />
     <Content Include="Content\lily.png" />
+    <Content Include="Content\Listing_14-14.html" />
+    <Content Include="Content\Listing_14-13.html" />
     <Content Include="Content\Listing_14-12.html" />
     <Content Include="Content\Listing_14-11.html" />
     <Content Include="Content\Listing_14-10.html" />
